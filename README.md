@@ -1,5 +1,6 @@
 # GIFME
 Companion app for Snapchat. Create animated GIFs of yourself and build up a collection.
+Video Demo: https://tylerpharand.github.io/gifme/gifme_demo.mp4
 
 # iOS Application
 The iOS application was written in Swift. It contains two main screens: Camera View, and Sticker Collection.
