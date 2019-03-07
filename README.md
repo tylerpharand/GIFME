@@ -8,6 +8,8 @@ In the Camera View, the shutter button can be held down to record up to 5 second
 
 The Sticker Collection contains the user's GIFs ("Stickers"). From this view, users can hand off any of their GIFs into Snapchat via the Snapkit SDK. GIFs can also be saved to the user's Camera Roll.
 
+![](GIFME_Demo.gif)
+
 # API
 The back end is a Flask API which is deployed to Heroku.
 
