@@ -15,7 +15,7 @@ The back end is a Flask API which is deployed to Heroku.
 
 The API works as follows:
 - POST request is recieved from the client, containing an array of Base64 encoded images.
-- The background of each from is removed, leaving just the humans. This is achieved using Face++, a deep learning API.
+- The background of each from is removed, leaving just the humans. This is achieved using Face++.
 - The resulting frames are then downsampled, and converted into an animated GIF format.
 - The GIF is stored on AWS S3 and a url with a unique identifier is generated.
 - The URL to the GIF is returned to the client.
