@@ -1,6 +1,6 @@
 Flask
 gunicorn
-Pillow==5.3.0
+Pillow==6.2.0
 aiohttp
 requests
 boto3
